@@ -24,12 +24,12 @@ RunTickerLoop()
 
 ### Result Images
 ### 2014
-(Images/2014-Result AmirVazquez.jpg)
+(2014-Result AmirVazquez.jpg)
 
 ### 2015
-(Images/2015-Result AmirVazquez.jpg)
+(2015-Result AmirVazquez.jpg)
 
 ### 2016
-(Images/2016-Result AmirVazquez.jpg)
+(2016-Result AmirVazquez.jpg)
 
 
